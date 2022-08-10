@@ -26,3 +26,4 @@ print(str(minutos) + ' minutos, ', end='')
 
 print('y ' + str(segundos) + ' segundos.')
 
+print(str(edad) , 'años !!! Como pasa el tiempo no ?')
