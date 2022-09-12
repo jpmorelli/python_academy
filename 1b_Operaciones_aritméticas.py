@@ -12,3 +12,10 @@
 
 print('Vamos a hacer algunas operaciones artiméticas...\n')
 print()
+number1 = int(input ('Ingrese un numero: \n'))
+number2 = int(input ('Ingrese otro numero: \n'))
+
+print('La suma de esos numeros nos da:',(number1 + number2),'.')
+print('La resta de esos numeros nos da:',(number1 - number2),'.')
+print('La multiplicacion de esos numeros nos da:',(number1 * number2),'.')
+print('La división de esos numeros nos da:',(number1 / number2),'.')
