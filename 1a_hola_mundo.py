@@ -5,5 +5,5 @@
 #2. Ingresar el nombre de un usuario y saludarlo. Ejemplo: Si el usuario se llama Juan, debe mostrar el mensaje "Hola, Juan."
 
 print('Hola Mundo')
-name = input ('Cuales tu nombre ?\n')
+name = input ('Cual es tu nombre ?\n')
 print('Hola,',name,'.')
